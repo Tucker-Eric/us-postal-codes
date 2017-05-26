@@ -1,0 +1,15 @@
+{
+  "name": "us-postal-codes",
+  "version": "1.0.0",
+  "description": "A json object keyed by US Postal Codes to get information related to the postal code",
+  "main": "src",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Tucker <Tucker.Ericm@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tucker-Eric/us-postal-codes"
+  },
+}
